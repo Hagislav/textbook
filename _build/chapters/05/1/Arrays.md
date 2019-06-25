@@ -24,7 +24,7 @@ path_data = '../../../data/'
 ```
 
 
-# Arrays
+# Arrays are fun
 
 While there are many kinds of collections in Python, we will work primarily with arrays in this class. We've already seen that the `make_array` function can be used to create arrays of numbers.
 

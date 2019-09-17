@@ -1,10 +1,10 @@
 ---
 title: 'Establishing Causality'
 prev_page:
-  url: /chapters/02/2/snow-s-grand-experiment
+  url: /chapters/02/2/snow-s-grand-experiment.html
   title: 'Snow’s “Grand Experiment”'
 next_page:
-  url: /chapters/02/4/randomization
+  url: /chapters/02/4/randomization.html
   title: 'Randomization'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

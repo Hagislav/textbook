@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Joining Tables by Columns'
 prev_page:
-  url: /chapters/08/3/Cross-Classifying_by_More_than_One_Variable
+  url: /chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html
   title: 'Cross-Classifying'
 next_page:
-  url: /chapters/08/5/Bike_Sharing_in_the_Bay_Area
+  url: /chapters/08/5/Bike_Sharing_in_the_Bay_Area.html
   title: 'Bike Sharing in the Bay Area'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

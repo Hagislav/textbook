@@ -6,16 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Comparing Two Samples'
 prev_page:
-  url: /chapters/11/4/Error_Probabilities
+  url: /chapters/11/4/Error_Probabilities.html
   title: 'Error Probabilities'
 next_page:
-  url: /chapters/12/1/AB_Testing
+  url: /chapters/12/1/AB_Testing.html
   title: 'A/B Testing'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

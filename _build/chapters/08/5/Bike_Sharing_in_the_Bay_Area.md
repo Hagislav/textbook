@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Bike Sharing in the Bay Area'
 prev_page:
-  url: /chapters/08/4/Joining_Tables_by_Columns
+  url: /chapters/08/4/Joining_Tables_by_Columns.html
   title: 'Joining Tables by Columns'
 next_page:
-  url: /chapters/09/Randomness
+  url: /chapters/09/Randomness.html
   title: 'Randomness'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

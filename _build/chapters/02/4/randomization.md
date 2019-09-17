@@ -1,10 +1,10 @@
 ---
 title: 'Randomization'
 prev_page:
-  url: /chapters/02/3/establishing-causality
+  url: /chapters/02/3/establishing-causality.html
   title: 'Establishing Causality'
 next_page:
-  url: /chapters/02/5/endnote
+  url: /chapters/02/5/endnote.html
   title: 'Endnote'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

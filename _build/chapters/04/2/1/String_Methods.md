@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'String Methods'
 prev_page:
-  url: /chapters/04/2/Strings
+  url: /chapters/04/2/Strings.html
   title: 'Strings'
 next_page:
-  url: /chapters/04/3/Comparison
+  url: /chapters/04/3/Comparison.html
   title: 'Comparisons'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # String Methods
 
 From an existing string, related strings can be constructed using string methods, which are functions that operate on strings. These methods are called by placing a dot after the string, then calling the function.

@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Updating Predictions'
 prev_page:
-  url: /chapters/17/6/Multiple_Regression
+  url: /chapters/17/6/Multiple_Regression.html
   title: 'Multiple Regression'
 next_page:
-  url: /chapters/18/1/More_Likely_than_Not_Binary_Classifier
+  url: /chapters/18/1/More_Likely_than_Not_Binary_Classifier.html
   title: 'A "More Likely Than Not" Binary Classifier'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Variability of the Sample Mean'
 prev_page:
-  url: /chapters/14/4/Central_Limit_Theorem
+  url: /chapters/14/4/Central_Limit_Theorem.html
   title: 'The Central Limit Theorem'
 next_page:
-  url: /chapters/14/6/Choosing_a_Sample_Size
+  url: /chapters/14/6/Choosing_a_Sample_Size.html
   title: 'Choosing a Sample Size'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

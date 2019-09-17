@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Functions and Tables'
 prev_page:
-  url: /chapters/07/3/Overlaid_Graphs
+  url: /chapters/07/3/Overlaid_Graphs.html
   title: 'Overlaid Graphs'
 next_page:
-  url: /chapters/08/1/Applying_a_Function_to_a_Column
+  url: /chapters/08/1/Applying_a_Function_to_a_Column.html
   title: 'Applying Functions to Columns'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

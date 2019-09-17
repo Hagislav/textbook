@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Error Probabilities'
 prev_page:
-  url: /chapters/11/3/Decisions_and_Uncertainty
+  url: /chapters/11/3/Decisions_and_Uncertainty.html
   title: 'Decisions and Uncertainty'
 next_page:
-  url: /chapters/12/Comparing_Two_Samples
+  url: /chapters/12/Comparing_Two_Samples.html
   title: 'Comparing Two Samples'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

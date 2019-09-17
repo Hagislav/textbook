@@ -1,10 +1,10 @@
 ---
 title: 'Computational Tools'
 prev_page:
-  url: /chapters/01/1/intro
+  url: /chapters/01/1/intro.html
   title: 'Introduction'
 next_page:
-  url: /chapters/01/1/2/statistical-techniques
+  url: /chapters/01/1/2/statistical-techniques.html
   title: 'Statistical Techniques'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

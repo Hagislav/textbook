@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Why the Mean Matters'
 prev_page:
-  url: /chapters/13/4/Using_Confidence_Intervals
+  url: /chapters/13/4/Using_Confidence_Intervals.html
   title: 'Using Confidence Intervals'
 next_page:
-  url: /chapters/14/1/Properties_of_the_Mean
+  url: /chapters/14/1/Properties_of_the_Mean.html
   title: 'Properties of the Mean'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 ### Why the Mean Matters
 In this course we have studied several different statistics, including total variation distance, the maximum, the median, and also the mean. Under clear assumptions about randomness, we have drawn empirical distributions of all of these statistics. Some, like the maximum and the total variation distance, have distributions that are clearly skewed in one direction or the other. But the empirical distribution of the sample mean has almost always turned out close to bell-shaped, regardless of the population being studied.
 

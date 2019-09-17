@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Expressions'
 prev_page:
-  url: /chapters/03/programming-in-python
+  url: /chapters/03/programming-in-python.html
   title: 'Programming in Python'
 next_page:
-  url: /chapters/03/2/Names
+  url: /chapters/03/2/Names.html
   title: 'Names'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Expressions
 
 Programming languages are much simpler than human languages. Nonetheless, there are some rules of grammar to learn in any language, and that is where we will begin. In this text, we will use the [Python](https://www.python.org/) programming language. Learning the grammar rules is essential, and the same rules used in the most basic programs are also central to more sophisticated programs.

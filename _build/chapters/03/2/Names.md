@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Names'
 prev_page:
-  url: /chapters/03/1/Expressions
+  url: /chapters/03/1/Expressions.html
   title: 'Expressions'
 next_page:
-  url: /chapters/03/2/1/Growth
+  url: /chapters/03/2/1/Growth.html
   title: 'Example: Growth Rates'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Names
 
 Names are given to values in Python using an *assignment* statement. In an assignment, a name is followed by `=`, which is followed by any expression. The value of the expression to the right of `=` is *assigned* to the name. Once a name has a value assigned to it, the value will be substituted for that name in future expressions.

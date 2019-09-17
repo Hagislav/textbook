@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Conditional Statements'
 prev_page:
-  url: /chapters/09/Randomness
+  url: /chapters/09/Randomness.html
   title: 'Randomness'
 next_page:
-  url: /chapters/09/2/Iteration
+  url: /chapters/09/2/Iteration.html
   title: 'Iteration'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

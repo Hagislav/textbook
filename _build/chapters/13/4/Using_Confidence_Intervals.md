@@ -6,16 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Using Confidence Intervals'
 prev_page:
-  url: /chapters/13/3/Confidence_Intervals
+  url: /chapters/13/3/Confidence_Intervals.html
   title: 'Confidence Intervals'
 next_page:
-  url: /chapters/14/Why_the_Mean_Matters
+  url: /chapters/14/Why_the_Mean_Matters.html
   title: 'Why the Mean Matters'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

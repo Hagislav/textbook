@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Data Types'
 prev_page:
-  url: /chapters/03/4/Introduction_to_Tables
+  url: /chapters/03/4/Introduction_to_Tables.html
   title: 'Introduction to Tables'
 next_page:
-  url: /chapters/04/1/Numbers
+  url: /chapters/04/1/Numbers.html
   title: 'Numbers'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Data Types
 
 Every value has a type, and the built-in `type` function returns the type of the result of any expression.

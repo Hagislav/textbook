@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Properties of the Mean'
 prev_page:
-  url: /chapters/14/Why_the_Mean_Matters
+  url: /chapters/14/Why_the_Mean_Matters.html
   title: 'Why the Mean Matters'
 next_page:
-  url: /chapters/14/2/Variability
+  url: /chapters/14/2/Variability.html
   title: 'Variability'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

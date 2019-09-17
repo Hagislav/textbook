@@ -1,10 +1,10 @@
 ---
 title: 'Data Science'
 prev_page:
-  url: /chapters/intro
+  url: /chapters/intro.html
   title: 'Introduction'
 next_page:
-  url: /chapters/01/1/intro
+  url: /chapters/01/1/intro.html
   title: 'Introduction'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

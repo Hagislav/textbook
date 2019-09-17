@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Numbers'
 prev_page:
-  url: /chapters/04/Data_Types
+  url: /chapters/04/Data_Types.html
   title: 'Data Types'
 next_page:
-  url: /chapters/04/2/Strings
+  url: /chapters/04/2/Strings.html
   title: 'Strings'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Numbers
 
 Computers are designed to perform numerical calculations, but there are some important details about working with numbers that every programmer working with quantitative data should know. Python (and most other programming languages) distinguishes between two different types of numbers:

@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The SD and the Normal Curve'
 prev_page:
-  url: /chapters/14/2/Variability
+  url: /chapters/14/2/Variability.html
   title: 'Variability'
 next_page:
-  url: /chapters/14/4/Central_Limit_Theorem
+  url: /chapters/14/4/Central_Limit_Theorem.html
   title: 'The Central Limit Theorem'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

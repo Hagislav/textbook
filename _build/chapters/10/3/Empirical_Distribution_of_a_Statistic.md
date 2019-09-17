@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Empirical Distibution of a Statistic'
 prev_page:
-  url: /chapters/10/2/Sampling_from_a_Population
+  url: /chapters/10/2/Sampling_from_a_Population.html
   title: 'Sampling from a Population'
 next_page:
-  url: /chapters/11/Testing_Hypotheses
+  url: /chapters/11/Testing_Hypotheses.html
   title: 'Testing Hypotheses'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

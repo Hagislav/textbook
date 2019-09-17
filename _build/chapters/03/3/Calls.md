@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Call Expressions'
 prev_page:
-  url: /chapters/03/2/1/Growth
+  url: /chapters/03/2/1/Growth.html
   title: 'Example: Growth Rates'
 next_page:
-  url: /chapters/03/4/Introduction_to_Tables
+  url: /chapters/03/4/Introduction_to_Tables.html
   title: 'Introduction to Tables'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Call Expressions
 
 *Call expressions* invoke functions, which are named operations. The name of the function appears first, followed by expressions in parentheses. 

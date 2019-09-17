@@ -1,10 +1,10 @@
 ---
 title: 'John Snow and the Broad Street Pump'
 prev_page:
-  url: /chapters/02/causality-and-experiments
+  url: /chapters/02/causality-and-experiments.html
   title: 'Causality and Experiments'
 next_page:
-  url: /chapters/02/2/snow-s-grand-experiment
+  url: /chapters/02/2/snow-s-grand-experiment.html
   title: 'Snow’s “Grand Experiment”'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

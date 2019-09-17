@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Introduction to Tables'
 prev_page:
-  url: /chapters/03/3/Calls
+  url: /chapters/03/3/Calls.html
   title: 'Call Expressions'
 next_page:
-  url: /chapters/04/Data_Types
+  url: /chapters/04/Data_Types.html
   title: 'Data Types'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

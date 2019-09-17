@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Literary Characters'
 prev_page:
-  url: /chapters/01/3/Plotting_the_Classics
+  url: /chapters/01/3/Plotting_the_Classics.html
   title: 'Plotting the Classics'
 next_page:
-  url: /chapters/01/3/2/Another_Kind_Of_Character
+  url: /chapters/01/3/2/Another_Kind_Of_Character.html
   title: 'Another Kind of Character'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

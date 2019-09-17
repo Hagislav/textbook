@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'A "More Likely Than Not" Binary Classifier'
 prev_page:
-  url: /chapters/18/Updating_Predictions
+  url: /chapters/18/Updating_Predictions.html
   title: 'Updating Predictions'
 next_page:
-  url: /chapters/18/2/Making_Decisions
+  url: /chapters/18/2/Making_Decisions.html
   title: 'Making Decisions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

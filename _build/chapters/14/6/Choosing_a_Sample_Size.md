@@ -6,16 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Choosing a Sample Size'
 prev_page:
-  url: /chapters/14/5/Variability_of_the_Sample_Mean
+  url: /chapters/14/5/Variability_of_the_Sample_Mean.html
   title: 'The Variability of the Sample Mean'
 next_page:
-  url: /chapters/15/Prediction
+  url: /chapters/15/Prediction.html
   title: 'Prediction'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

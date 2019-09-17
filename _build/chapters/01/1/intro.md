@@ -1,10 +1,10 @@
 ---
 title: 'Introduction'
 prev_page:
-  url: /chapters/01/what-is-data-science
+  url: /chapters/01/what-is-data-science.html
   title: 'Data Science'
 next_page:
-  url: /chapters/01/1/1/computational-tools
+  url: /chapters/01/1/1/computational-tools.html
   title: 'Computational Tools'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

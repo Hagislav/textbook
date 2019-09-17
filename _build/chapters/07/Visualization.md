@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Visualization'
 prev_page:
-  url: /chapters/06/4/Example_Gender_Ratio_in_the_US_Population
+  url: /chapters/06/4/Example_Gender_Ratio_in_the_US_Population.html
   title: 'Example: Trends in Gender'
 next_page:
-  url: /chapters/07/1/Visualizing_Categorical_Distributions
+  url: /chapters/07/1/Visualizing_Categorical_Distributions.html
   title: 'Categorical Distributions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

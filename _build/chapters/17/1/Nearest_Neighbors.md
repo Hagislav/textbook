@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Nearest Neighbors'
 prev_page:
-  url: /chapters/17/Classification
+  url: /chapters/17/Classification.html
   title: 'Classification'
 next_page:
-  url: /chapters/17/2/Training_and_Testing
+  url: /chapters/17/2/Training_and_Testing.html
   title: 'Training and Testing'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

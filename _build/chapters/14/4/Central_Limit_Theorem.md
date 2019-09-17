@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'The Central Limit Theorem'
 prev_page:
-  url: /chapters/14/3/SD_and_the_Normal_Curve
+  url: /chapters/14/3/SD_and_the_Normal_Curve.html
   title: 'The SD and the Normal Curve'
 next_page:
-  url: /chapters/14/5/Variability_of_the_Sample_Mean
+  url: /chapters/14/5/Variability_of_the_Sample_Mean.html
   title: 'The Variability of the Sample Mean'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

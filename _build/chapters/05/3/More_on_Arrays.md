@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'More on Arrays'
 prev_page:
-  url: /chapters/05/2/Ranges
+  url: /chapters/05/2/Ranges.html
   title: 'Ranges'
 next_page:
-  url: /chapters/06/Tables
+  url: /chapters/06/Tables.html
   title: 'Tables'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

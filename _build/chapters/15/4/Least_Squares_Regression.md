@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Least Squares Regression'
 prev_page:
-  url: /chapters/15/3/Method_of_Least_Squares
+  url: /chapters/15/3/Method_of_Least_Squares.html
   title: 'The Method of Least Squares'
 next_page:
-  url: /chapters/15/5/Visual_Diagnostics
+  url: /chapters/15/5/Visual_Diagnostics.html
   title: 'Visual Diagnostics'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

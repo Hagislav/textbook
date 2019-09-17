@@ -1,10 +1,10 @@
 ---
 title: 'Programming in Python'
 prev_page:
-  url: /chapters/02/5/endnote
+  url: /chapters/02/5/endnote.html
   title: 'Endnote'
 next_page:
-  url: /chapters/03/1/Expressions
+  url: /chapters/03/1/Expressions.html
   title: 'Expressions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

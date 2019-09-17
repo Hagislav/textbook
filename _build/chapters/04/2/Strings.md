@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Strings'
 prev_page:
-  url: /chapters/04/1/Numbers
+  url: /chapters/04/1/Numbers.html
   title: 'Numbers'
 next_page:
-  url: /chapters/04/2/1/String_Methods
+  url: /chapters/04/2/1/String_Methods.html
   title: 'String Methods'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Strings
 
 Much of the world's data is text, and a piece of text represented in a computer is called a *string*. A string can represent a word, a sentence, or even the contents of every book in a library. Since text can include numbers (like this: 5) or truth values (True), a string can also describe those things.

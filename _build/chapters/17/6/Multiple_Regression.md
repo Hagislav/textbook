@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Multiple Regression'
 prev_page:
-  url: /chapters/17/5/Accuracy_of_the_Classifier
+  url: /chapters/17/5/Accuracy_of_the_Classifier.html
   title: 'The Accuracy of the Classifier'
 next_page:
-  url: /chapters/18/Updating_Predictions
+  url: /chapters/18/Updating_Predictions.html
   title: 'Updating Predictions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

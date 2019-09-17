@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Percentiles'
 prev_page:
-  url: /chapters/13/Estimation
+  url: /chapters/13/Estimation.html
   title: 'Estimation'
 next_page:
-  url: /chapters/13/2/Bootstrap
+  url: /chapters/13/2/Bootstrap.html
   title: 'The Bootstrap'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

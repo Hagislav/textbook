@@ -1,10 +1,10 @@
 ---
 title: 'Endnote'
 prev_page:
-  url: /chapters/02/4/randomization
+  url: /chapters/02/4/randomization.html
   title: 'Randomization'
 next_page:
-  url: /chapters/03/programming-in-python
+  url: /chapters/03/programming-in-python.html
   title: 'Programming in Python'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

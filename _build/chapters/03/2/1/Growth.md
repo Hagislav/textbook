@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Example: Growth Rates'
 prev_page:
-  url: /chapters/03/2/Names
+  url: /chapters/03/2/Names.html
   title: 'Names'
 next_page:
-  url: /chapters/03/3/Calls
+  url: /chapters/03/3/Calls.html
   title: 'Call Expressions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Example: Growth Rates
 
 The relationship between two measurements of the same quantity taken at different times is often expressed as a *growth rate*. For example, the United States federal government [employed](http://www.bls.gov/opub/mlr/2013/article/industry-employment-and-output-projections-to-2022-1.htm) 2,766,000 people in 2002 and 2,814,000 people in 2012. To compute a growth rate, we must first decide which value to treat as the `initial` amount. For values over time, the earlier value is a natural choice. Then, we divide the difference between the `changed` and `initial` amount by the `initial` amount.

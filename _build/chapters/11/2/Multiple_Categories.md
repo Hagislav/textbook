@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Multiple Categories'
 prev_page:
-  url: /chapters/11/1/Assessing_Models
+  url: /chapters/11/1/Assessing_Models.html
   title: 'Assessing Models'
 next_page:
-  url: /chapters/11/3/Decisions_and_Uncertainty
+  url: /chapters/11/3/Decisions_and_Uncertainty.html
   title: 'Decisions and Uncertainty'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

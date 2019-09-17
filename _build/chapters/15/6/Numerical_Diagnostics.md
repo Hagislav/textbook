@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Numerical Diagnostics'
 prev_page:
-  url: /chapters/15/5/Visual_Diagnostics
+  url: /chapters/15/5/Visual_Diagnostics.html
   title: 'Visual Diagnostics'
 next_page:
-  url: /chapters/16/Inference_for_Regression
+  url: /chapters/16/Inference_for_Regression.html
   title: 'Inference for Regression'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

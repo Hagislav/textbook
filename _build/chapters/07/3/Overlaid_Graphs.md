@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Overlaid Graphs'
 prev_page:
-  url: /chapters/07/2/Visualizing_Numerical_Distributions
+  url: /chapters/07/2/Visualizing_Numerical_Distributions.html
   title: 'Numerical Distributions'
 next_page:
-  url: /chapters/08/Functions_and_Tables
+  url: /chapters/08/Functions_and_Tables.html
   title: 'Functions and Tables'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Classification'
 prev_page:
-  url: /chapters/16/3/Prediction_Intervals
+  url: /chapters/16/3/Prediction_Intervals.html
   title: 'Prediction Intervals'
 next_page:
-  url: /chapters/17/1/Nearest_Neighbors
+  url: /chapters/17/1/Nearest_Neighbors.html
   title: 'Nearest Neighbors'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

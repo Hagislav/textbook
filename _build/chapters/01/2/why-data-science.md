@@ -1,10 +1,10 @@
 ---
 title: 'Why Data Science?'
 prev_page:
-  url: /chapters/01/1/2/statistical-techniques
+  url: /chapters/01/1/2/statistical-techniques.html
   title: 'Statistical Techniques'
 next_page:
-  url: /chapters/01/3/Plotting_the_Classics
+  url: /chapters/01/3/Plotting_the_Classics.html
   title: 'Plotting the Classics'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

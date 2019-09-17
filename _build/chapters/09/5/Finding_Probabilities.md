@@ -6,16 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Finding Probabilities'
 prev_page:
-  url: /chapters/09/4/Monty_Hall_Problem
+  url: /chapters/09/4/Monty_Hall_Problem.html
   title: 'The Monty Hall Problem'
 next_page:
-  url: /chapters/10/Sampling_and_Empirical_Distributions
+  url: /chapters/10/Sampling_and_Empirical_Distributions.html
   title: 'Sampling and Empirical Distributions'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Correlation'
 prev_page:
-  url: /chapters/15/Prediction
+  url: /chapters/15/Prediction.html
   title: 'Prediction'
 next_page:
-  url: /chapters/15/2/Regression_Line
+  url: /chapters/15/2/Regression_Line.html
   title: 'The Regression Line'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Testing Hypotheses'
 prev_page:
-  url: /chapters/10/3/Empirical_Distribution_of_a_Statistic
+  url: /chapters/10/3/Empirical_Distribution_of_a_Statistic.html
   title: 'Empirical Distibution of a Statistic'
 next_page:
-  url: /chapters/11/1/Assessing_Models
+  url: /chapters/11/1/Assessing_Models.html
   title: 'Assessing Models'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 ### Testing Hypotheses
 
 Data scientists are often faced with yes-no questions about the world. You have seen some examples of such questions in this course:

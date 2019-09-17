@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Plotting the Classics'
 prev_page:
-  url: /chapters/01/2/why-data-science
+  url: /chapters/01/2/why-data-science.html
   title: 'Why Data Science?'
 next_page:
-  url: /chapters/01/3/1/Literary_Characters
+  url: /chapters/01/3/1/Literary_Characters.html
   title: 'Literary Characters'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

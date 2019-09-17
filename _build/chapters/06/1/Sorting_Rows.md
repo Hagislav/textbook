@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Sorting Rows'
 prev_page:
-  url: /chapters/06/Tables
+  url: /chapters/06/Tables.html
   title: 'Tables'
 next_page:
-  url: /chapters/06/2/Selecting_Rows
+  url: /chapters/06/2/Selecting_Rows.html
   title: 'Selecting Rows'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

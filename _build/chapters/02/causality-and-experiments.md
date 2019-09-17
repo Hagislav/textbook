@@ -1,10 +1,10 @@
 ---
 title: 'Causality and Experiments'
 prev_page:
-  url: /chapters/01/3/2/Another_Kind_Of_Character
+  url: /chapters/01/3/2/Another_Kind_Of_Character.html
   title: 'Another Kind of Character'
 next_page:
-  url: /chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump
+  url: /chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html
   title: 'John Snow and the Broad Street Pump'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---

@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Inference for the True Slope'
 prev_page:
-  url: /chapters/16/1/Regression_Model
+  url: /chapters/16/1/Regression_Model.html
   title: 'A Regression Model'
 next_page:
-  url: /chapters/16/3/Prediction_Intervals
+  url: /chapters/16/3/Prediction_Intervals.html
   title: 'Prediction Intervals'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

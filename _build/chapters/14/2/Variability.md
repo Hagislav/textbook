@@ -6,16 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Variability'
 prev_page:
-  url: /chapters/14/1/Properties_of_the_Mean
+  url: /chapters/14/1/Properties_of_the_Mean.html
   title: 'Properties of the Mean'
 next_page:
-  url: /chapters/14/3/SD_and_the_Normal_Curve
+  url: /chapters/14/3/SD_and_the_Normal_Curve.html
   title: 'The SD and the Normal Curve'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

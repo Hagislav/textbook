@@ -6,16 +6,13 @@ kernel_name: Python [Root]
 has_widgets: false
 title: 'Simulation'
 prev_page:
-  url: /chapters/09/2/Iteration
+  url: /chapters/09/2/Iteration.html
   title: 'Iteration'
 next_page:
-  url: /chapters/09/4/Monty_Hall_Problem
+  url: /chapters/09/4/Monty_Hall_Problem.html
   title: 'The Monty Hall Problem'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
-
-
 {:.input_area}
 ```python
 # HIDDEN

@@ -6,14 +6,13 @@ kernel_name: python3
 has_widgets: false
 title: 'Comparisons'
 prev_page:
-  url: /chapters/04/2/1/String_Methods
+  url: /chapters/04/2/1/String_Methods.html
   title: 'String Methods'
 next_page:
-  url: /chapters/05/Sequences
+  url: /chapters/05/Sequences.html
   title: 'Sequences'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-
 # Comparisons
 
 Boolean values most often arise from comparison operators. Python includes a variety of operators that compare values. For example, `3` is larger than `1 + 1`.

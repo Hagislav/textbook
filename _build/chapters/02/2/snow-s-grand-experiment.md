@@ -1,10 +1,10 @@
 ---
 title: 'Snow’s “Grand Experiment”'
 prev_page:
-  url: /chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump
+  url: /chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html
   title: 'John Snow and the Broad Street Pump'
 next_page:
-  url: /chapters/02/3/establishing-causality
+  url: /chapters/02/3/establishing-causality.html
   title: 'Establishing Causality'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
